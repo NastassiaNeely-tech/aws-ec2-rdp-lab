@@ -8,7 +8,7 @@ This project highlights foundational cloud and security skills relevant to cyber
 ---
 
 ## 🎥 Video Walkthrough
-[!Click here to watch the Loom walkthrough] https://www.loom.com/share/6a160d4bed04412dbbb21f189166cb2a
+[Click here to watch the Loom walkthrough] https://www.loom.com/share/6a160d4bed04412dbbb21f189166cb2a
 
 ---
 
